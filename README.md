@@ -1,4 +1,5 @@
-# ZeusVault: A Privacy-Focused, User-Friendly, Offline & Cross-Platform Password Manager
+# ZeusVault
+## A Privacy-Focused, User-Friendly, Offline & Cross-Platform Password Manager
 
 ZeusVault is a powerful and secure password manager designed with a strong focus on privacy and ease of use. It allows users to safely store and manage their passwords across multiple platforms, including Android, Windows, Linux, and potentially iOS devices. With ZeusVault, you can take full control of your online security while keeping your sensitive information offline.
 
