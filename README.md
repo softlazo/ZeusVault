@@ -14,3 +14,10 @@ ZeusVault is a powerful and secure password manager designed with a strong focus
 - **Backup and Restore:** Never worry about losing your passwords. ZeusVault offers easy backup and restore options, allowing you to securely store and recover your password data whenever needed.
 
 Take control of your digital security with ZeusVault, the ultimate privacy-focused, user-friendly, offline, and cross-platform password manager.
+
+## Donations
+
+Since this project is completely ad-free and absolutely not profit-oriented, you're completely free to donate to my BTC, LTC and ETH adresses to help keep this project updated and running in the future
+- **BTC:** *to be added*
+- **LTC:** *to be added*
+- **ETH:** *to be added*
