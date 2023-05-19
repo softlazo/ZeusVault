@@ -22,5 +22,23 @@ Since this project is completely ad-free and absolutely not profit-oriented, you
 - **LTC:** *to be added*
 - **ETH:** *to be added*
 
+## 📝 ToDo-List
 
-*Created with ❤️ by lazo*
+- [x] Define project idea
+- [x] Select names for the project and password manager
+- [x] Create GitHub repository
+- [ ] Establish basic folder structure
+- [ ] Design user interface
+- [ ] Design database structure
+- [ ] Implement password encryption mechanism
+- [ ] Implement password management features (add, edit, delete)
+- [ ] Implement cross-platform support (Android, Windows, Linux)
+- [ ] Implement offline access
+- [ ] Implement password generator feature
+- [ ] Implement backup and restore functionality
+- [ ] Perform security testing
+- [ ] Bug fixing and optimization
+- [ ] Create documentation
+- [ ] Release the first stable version
+
+##### *Created with ❤️ by lazo*
