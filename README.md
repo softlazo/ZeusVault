@@ -27,6 +27,7 @@ Since this project is completely ad-free and absolutely not profit-oriented, you
 - [x] Define project idea
 - [x] Select names for the project and password manager
 - [x] Create GitHub repository
+- [ ] Learn to code 💀
 - [ ] Establish basic folder structure
 - [ ] Design user interface
 - [ ] Design database structure
