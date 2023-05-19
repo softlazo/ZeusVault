@@ -2,7 +2,7 @@
 ## 🛡️ A Privacy-Focused, User-Friendly, Offline & Cross-Platform Password Manager 
 
 # NOT DONE - NOT TO BEGIN ANY SOON
-for now ill recommend using (Buttercup)[https://github.com/buttercup] which is very similar on what im trying to do here
+for now ill recommend using [Buttercup](https://github.com/buttercup) which is very similar on what im trying to do here
 
 ZeusVault is a powerful and secure password manager designed with a strong focus on privacy and ease of use. It allows users to safely store and manage their passwords across multiple platforms, including Android, Windows, Linux, and potentially iOS devices. With ZeusVault, you can take full control of your online security while keeping your sensitive information offline.
 
